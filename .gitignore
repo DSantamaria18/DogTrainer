@@ -31,3 +31,4 @@
 
 # "temporary" build files
 /target
+/.idea/$PRODUCT_WORKSPACE_FILE$
